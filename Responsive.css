@@ -1,0 +1,1149 @@
+@media only screen and (min-width: 300px) and (max-width: 769px) {
+  .header {
+    /* border: 5px solid red; */
+    min-height: 118px;
+    margin: 0 !important;
+    padding: 0 3% !important;
+  }
+
+  .online-regis-form {
+    /* border: 3px solid; */
+    width: 100% !important;
+  }
+
+  .Online-regggg {
+
+    width: 100% !important;
+    /* font-size: 16px !important; */
+    height: 50px !important;
+
+  }
+
+  .abstract-list {
+    padding: 4px 0 !important;
+    margin: 0 !important;
+    text-align: justify;
+  }
+
+  .form {
+    padding: 10px;
+  }
+
+  .sig {
+    padding: 0 40px !important;
+  }
+
+  .Online-regggg>.tccc {
+    /* border: 2px solid; */
+    padding-top: 10px !important;
+    /* padding: -10px !important; */
+  }
+
+  .aiim-logo {
+    /* border: 2px solid; */
+    width: 180px;
+    padding: 24px;
+  }
+
+  .aiim-logo2 {
+    /* border: 2px solid; */
+    padding: 35px;
+    width: 190px;
+  }
+
+  .text1-head {
+    display: none;
+  }
+
+  .header-text {
+    display: none;
+  }
+
+  #ban-log {
+    /* border: 4px solid; */
+    height: 222px !important;
+
+  }
+
+  .header-text2 {
+    display: block;
+    margin-top: 3%;
+    width: 100%;
+    padding: 0 !important;
+
+  }
+
+
+  .header-text2 h1 {
+    font-size: 20px !important;
+    padding: 1.px;
+    ;
+  }
+
+  .van-head {
+    /* border: 3px solid; */
+    padding: 0 15px;
+  }
+
+  .venu-txt {
+    /* border: 4px solid; */
+    width: 98%;
+    padding: 16px;
+  }
+
+  .banner-cont {
+
+    border: none !important;
+    margin: 0 auto !important;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+  }
+
+  .timmmm {
+    width: auto !important;
+    /* border: 5px solid; */
+  }
+
+  .timm2 {
+    width: 100% !important;
+    border: 4px solid !important;
+    padding: 15px !important;
+  }
+
+  #day {
+    display: block;
+    font-size: 25px;
+    font-weight: 600;
+
+  }
+
+  .tum {
+    gap: 20px !important;
+  }
+
+  #daya {
+    display: none;
+  }
+
+
+  .new-ban {
+    /* border: 4px solid; */
+    padding: 8% 0;
+    ;
+    display: flex;
+    width: 100% !important;
+    flex-direction: column-reverse;
+  }
+
+  .banner>img {
+    border-top-left-radius: 1px;
+    border-bottom-left-radius: 1px;
+    height: 61vh;
+    width: 98%;
+    margin: auto 1%;
+  }
+
+  /* ================================================================================================================================= */
+  .banner {
+    /* border: 2px solid red; */
+    width: 98% !important;
+    height: 375px !important;
+  }
+
+
+
+  .banner>img {
+    height: 100% !important;
+  }
+
+
+  .banner2 {
+    /* border: 2px solid red; */
+    width: 98% !important;
+    margin-bottom: 3vh !important;
+  }
+
+  .timer1 {
+    display: none;
+  }
+
+  .banner-txt {
+    width: 100% !important;
+    padding: 0.5rem !important;
+    /* border: 4px solid; */
+  }
+
+  .banner2>.time {
+    margin: 0 !important;
+    width: 100%;
+    display: none;
+  }
+
+  .banner2>.banner-txt>div>h1 {
+    font-size: 15px;
+  }
+
+  .banner2>.banner-txt>div>p {
+    font-size: 13px;
+  }
+
+  .imp-banner>div>div>p {
+    font-size: 13px;
+    width: 219px;
+  }
+
+  .click {
+    font-size: 13px;
+  }
+
+  .click1 {
+    /* border: 4px solid; */
+    /* width: 136px; */
+    font-size: 13px;
+  }
+
+  .invitaion {
+
+    border-radius: 0;
+    padding: 34px;
+  }
+
+  .invitaion>h1 {
+    font-size: 25px;
+    padding: 0;
+  }
+
+  .invitaion>div {
+    /* border: 1px solid red; */
+    width: 100%;
+    padding: 0 !important;
+    margin: 0 !important;
+
+  }
+
+  .del-par {
+    border: 4px solid;
+  }
+
+  #tog-mob {
+    display: block !important;
+  }
+
+  .invitaion>div>h2 {
+    font-size: 16px;
+    text-align: justify;
+  }
+
+  .invitaion>div>h6 {
+    font-size: 16px;
+  }
+
+  .invitaion>div>p {
+    text-align: justify;
+    padding: 0 !important;
+    font-size: 14px;
+  }
+
+  .invitaionparent {
+    min-height: 125vh;
+  }
+
+  .invitaion>div>p>span {
+    font-size: 16px;
+  }
+
+  .list>li {
+    font-size: 14px;
+    /* border: 4px solid; */
+  }
+
+  .about {
+    /* margin-top: 187vh; */
+    border-radius: 0 !important;
+    /* border: 4px solid; */
+  }
+
+  .about>.container {
+    /* border: 4px solid; */
+    border-radius: 0 !important;
+  }
+
+  .about>.container>h1 {
+    font-size: 22px;
+    padding: 4% 0;
+  }
+
+  .about>.container>.parent-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+
+  .about>.container>.parent-container>.about2 {
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    ;
+    /* border: 2px solid; */
+  }
+
+  #hell-ven {
+    display: none !important;
+  }
+
+  .about>.container>.parent-container>.about2>img {
+    /* border: 4px solid; */
+    width: 100% !important;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .about1 {
+    width: 98% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    /* border: 4px solid; */
+  }
+
+  #hyperlinks {
+    /* border: 4px solid red; */
+    width: 100%;
+
+  }
+
+  #hyperlinks>a {
+    font-size: 11px !important;
+  }
+
+  .cancel {
+    margin: 0 0 0 40px !important;
+  }
+
+  .parent-container {
+    /* border: 4px solid red; */
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .about>.container>.parent-container>.about1 {
+    width: 98% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    /* border: 2px solid; */
+  }
+
+  .about-text-res {
+    /* border: 4px solid; */
+    width: 100%;
+    text-align: center !important;
+    margin: 16px 0 0 0;
+    ;
+  }
+
+  #abt-img {
+    height: 340px !important;
+  }
+
+  #ven-map {
+    /* border: 4px solid !important; */
+    margin: auto !important;
+    width: 350px !important;
+    height: 180px !important;
+  }
+
+  .abt-txt {
+    width: 96% !important;
+    /* border: 3px solid; */
+    padding: 0px 10px !important;
+    margin: auto !important;
+  }
+
+  .about-venue {
+    /* border: 4px solid; */
+    margin: 0;
+    min-height: 20vh;
+  }
+
+  .sub-about-venue {
+    /* border: 4px solid blue; */
+    border-radius: 0 !important;
+  }
+
+  .main-sub-about-venue {
+    /* border: 4px solid; */
+    padding: 0 !important;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+
+  venu-txt .main2,
+  .main1 {
+    width: 98%;
+    padding: 0 !important;
+    margin: auto !important;
+  }
+
+  .main1 {
+    /* border: 4px solid; */
+    width: 100% !important;
+    ;
+    padding: 0 38px;
+    margin-bottom: 7%;
+  }
+
+  .main1>h1 {
+    font-size: 20px;
+  }
+
+  .main1>p {
+    font-size: 13px;
+  }
+
+  .main2>img {
+    height: 340px;
+    width: 100%;
+  }
+
+  .footer {
+    /* border: 5px solid; */
+    display: flex;
+    margin-top: 2%;
+    flex-wrap: wrap;
+    /* flex-direction: column-reverse; */
+    gap: 30px;
+  }
+
+  .foot1 {
+    width: 100%;
+    padding-top: 3%;
+    margin: auto;
+  }
+
+  .foot2 {
+    margin: auto;
+    /* margin-bottom: 3%; */
+  }
+
+  .fot-p {
+    margin-bottom: 3%;
+  }
+
+  .openbtn {
+    display: block;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .commit-text {
+    text-align: center;
+    font-size: 25px;
+    padding: 0;
+    margin-right: 60px;
+  }
+
+  .commit {
+    border: 1px solid;
+    width: 98% !important;
+  }
+
+  .prooo {
+    /* border: 4px solid !important; */
+    width: 100% !important;
+    padding: 4%;
+  }
+
+  .invitation-problem {
+    /* border: 4px solid; */
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 50px;
+  }
+
+  .online-regis {
+    /* border: 4px solid !important; */
+    margin-top: 1% !important;
+    width: 98%;
+    padding-bottom: 6%;
+    padding-top: 6%;
+    margin: auto;
+  }
+
+  .forget-pass {
+    padding: 0 !important;
+    /* border: 4px solid; */
+    margin: 0 !important;
+  }
+
+  .forget {
+    margin: 0 !important;
+    /* border: 4px solid; */
+  }
+
+  .inp {
+    width: 300px;
+    margin: auto;
+  }
+
+  .emm {
+    margin-left: 38px;
+    ;
+  }
+
+  .regimain {
+    padding-bottom: 10px !important;
+  }
+
+  .delhi-ban {
+    /* border: 4px solid; */
+    width: 98% !important;
+    height: auto;
+    padding: 0 !important;
+    margin: 0 !important;
+
+  }
+
+
+  .spons-pp {
+    /* border: 4px solid red; */
+    width: 100%;
+    text-align: justify;
+  }
+
+  .delhi-ban3 {
+    /* border: 4px solid red; */
+    width: 338px;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .del-hd {
+    padding: 5% 0 !important;
+  }
+
+  .delhi-para {
+    padding: 0 !important;
+    /* width: 100%; */
+  }
+
+  .delhi-ban2 {
+    width: 98% !important;
+    margin: auto !important;
+    display: flex;
+    /* border: 4px solid; */
+    padding: 0 !important;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+
+  .delhi-img {
+    width: 350px;
+    /* border: 1px solid; */
+  }
+
+  .delhi-img>img {
+    width: 350px !important;
+  }
+
+  /* .abt-ven {
+    border: 4px solid;
+  } */
+
+  .venue-img {
+    /* border: 4px solid; */
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex;
+  }
+
+  .venue-img1 {
+    /* border: 4px solid blue; */
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .ven-hd {
+    /* border: 2px solid; */
+    font-size: 28px;
+    padding-top: 2%;
+  }
+
+  #vent-papap {
+    /* border: 4px solid; */
+    margin: 0 !important;
+    padding: 2% !important;
+  }
+
+  .venue-img>img {
+    width: 100% !important;
+    height: 200px !important;
+    /* border: 4px solid red; */
+  }
+
+  #veb-img {
+    display: none;
+  }
+
+  #veb-img1 {
+    display: none;
+  }
+
+  #veb-img2 {
+    display: block;
+    margin: auto !important;
+  }
+
+  .abst-gud {
+    text-align: justify;
+  }
+
+  #chairman {
+    margin: 0 !important;
+  }
+}
+
+
+
+
+
+@media only screen and (min-width: 769px) and (max-width: 1096px) {
+  .header-text {
+    display: block;
+  }
+
+
+
+  .banner {
+    width: 100% !important;
+    /* border: 2px solid; */
+  }
+
+  .new-ban {
+    display: none;
+  }
+
+  #tog-mob {
+    display: block !important;
+  }
+
+  .header-text2 {
+    display: none;
+  }
+
+  .ven-hd {
+    /* border: 2px solid; */
+    font-size: 28px;
+    padding-top: 2%;
+  }
+
+  #vent-papap {
+    /* border: 4px solid; */
+    margin: 0 !important;
+    padding: 2% !important;
+    text-align: justify;
+  }
+
+  #hell-ven {
+    display: none !important;
+  }
+
+  .time {
+    display: none !important;
+  }
+
+
+
+  #veb-img2 {
+    display: none !important;
+  }
+
+  .banner {
+
+    width: 50%;
+  }
+
+  .banner2 {
+
+    width: 50%;
+  }
+
+  .invitaion {
+    padding: 0 40px;
+  }
+
+  .invitaionparent {
+    min-height: 125vh;
+  }
+
+  .main2 {
+    width: 40%;
+  }
+
+  .timer2 {
+    display: none;
+  }
+
+  .timer1 {
+    display: block;
+  }
+
+
+  .foot1 {
+    width: 50%;
+  }
+
+  .banner2>.time {
+    display: block;
+  }
+
+  .main1 {
+    width: 45%;
+    padding: 5%;
+    margin-left: 5rem;
+    /* border: 4px solid red; */
+  }
+
+  .footer {
+    /* border: 2px solid red; */
+    display: flex;
+
+  }
+
+  .openbtn {
+    display: block;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .delhi-ban2 {
+    width: 98% !important;
+    margin: auto !important;
+    display: flex;
+    /* border: 4px solid; */
+    padding: 0 !important;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+
+  .delhi-img {
+    width: 100%;
+    /* border: 1px solid; */
+  }
+
+  .delhi-img>img {
+    width: 93% !important;
+    height: 400px !important;
+    margin: auto;
+  }
+
+  .delhi-ban {
+    /* border: 4px solid; */
+    width: 100% !important;
+    height: auto;
+    padding: 0 !important;
+    margin: 10vh auto !important;
+
+  }
+
+  #chairman {
+    margin: 0 !important;
+  }
+
+  .delhi-ban3 {
+    /* border: 4px solid red; */
+    width: auto;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .del-hd {
+    padding: 5% 0 !important;
+  }
+
+  .delhi-para {
+    padding: 4% !important;
+    width: 100% !important;
+    /* border: 4px solid; */
+  }
+
+  #veb-img {
+    display: none;
+  }
+
+  #veb-img1 {
+    display: block;
+  }
+
+  #hell-ven {
+    display: block !important;
+    height: 191px !important;
+    margin: auto !important;
+  }
+
+  #img-abt-vvv {
+    /* border: 4px solid; */
+    width: 450px !important;
+  }
+
+  .venue-img {
+    /* border: 4px solid; */
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex;
+  }
+
+  .venue-img1 {
+    /* border: 4px solid blue; */
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .venue-img>img {
+    width: 100% !important;
+    height: 200px !important;
+    /* border: 4px solid red; */
+  }
+
+  #veb-img {
+    display: none;
+  }
+
+  #veb-img1 {
+    display: none;
+  }
+
+  #hell-ven {
+    display: block;
+  }
+
+  .spons-pp {
+    /* border: 4px solid red; */
+    width: 100%;
+    text-align: justify;
+  }
+
+  #day {
+    display: none;
+    font-size: 20px;
+    font-weight: 600;
+
+  }
+
+  /* ========================================================================================== */
+}
+
+
+@media only screen and (min-width: 1047px) and (max-width: 1299px) {
+  .header-text {
+    display: block;
+  }
+
+
+
+  .header-text2 {
+    display: none;
+  }
+
+  .navbar {
+    display: block;
+  }
+
+  .spons-pp {
+    /* border: 4px solid red; */
+    width: 50%;
+    text-align: justify;
+  }
+
+  .ven-hd {
+    /* border: 2px solid; */
+    font-size: 28px;
+    padding-top: 2%;
+  }
+
+  #day {
+    display: none;
+    font-size: 20px;
+    font-weight: 600;
+
+  }
+
+  #vent-papap {
+    /* border: 4px solid; */
+    margin: 0 !important;
+    padding: 5% !important;
+    text-align: justify;
+  }
+
+  .invitaion {
+    padding: 0 40px;
+  }
+
+  .time {
+    margin-left: 0.1% !important;
+    /* border: 4px solid; */
+  }
+
+  .banner2>.time {
+    display: block;
+    margin-left: 8.9% !important;
+  }
+
+  .openbtn {
+    display: none;
+  }
+
+  .main1 {
+    width: 45%;
+    padding: 3%;
+    /* border: 4px solid red; */
+  }
+
+  .timer2 {
+    display: none;
+  }
+
+  #chairman {
+    margin: 0 100px !important;
+  }
+
+  .footer {
+    /* border: 2px solid; */
+    display: flex;
+    gap: 580px;
+  }
+
+  .delhi-ban {
+    /* border: 4px solid; */
+    width: 100% !important;
+    height: auto;
+    padding: 0 !important;
+    margin: 10vh auto !important;
+
+  }
+
+  .delhi-ban3 {
+    /* border: 4px solid; */
+    width: 35%;
+    padding: 0 !important;
+  }
+
+  .delhi-para {
+    /* border: 4px solid; */
+    padding: 0 !important;
+    margin-right: 3%;
+  }
+
+  .delhi-img {
+    width: 40% !important;
+    /* border: 5px solid */
+  }
+
+  .delhi-img>img {
+    width: 100% !important;
+    /* border: 4px solid !important */
+  }
+
+  .venue-img {
+    /* border: 4px solid; */
+    height: 300px;
+    width: 90% !important;
+    margin: auto !important;
+    padding: 0 !important;
+    display: flex;
+  }
+
+  .venue-img1 {
+    /* border: 4px solid blue; */
+    width: 100% !important;
+    /* height: 100% !important; */
+    ;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .venue-img>img {
+    width: 100% !important;
+    height: 100% !important;
+    /* border: 4px solid red; */
+  }
+
+  #veb-img {
+    display: none;
+  }
+
+  #veb-img1 {
+    display: none;
+  }
+
+  #main-ven-img {
+    margin-bottom: 3% !important;
+    padding-bottom: 3% !important;
+  }
+
+  #veb-img2 {
+    display: none;
+
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  .time {
+
+    /* border: 4px solid; */
+  }
+
+  #chairman {
+    margin: 0 500px !important;
+  }
+
+  #day {
+    display: none;
+    font-size: 20px;
+    font-weight: 600;
+
+  }
+
+  .timer2 {
+    display: none;
+  }
+
+  .header-text2 {
+    margin: 2%;
+    display: none;
+  }
+
+  #main-ven-img {
+    display: none;
+  }
+
+  #veb-img {
+    display: block;
+  }
+
+  .spons-pp {
+    /* border: 4px solid red; */
+    width: 60% !important;
+    text-align: justify;
+  }
+
+
+  .aiim-logo {
+    /* border: 2px solid; */
+    width: 206px;
+    padding: 1px;
+    height: 170px;
+  }
+
+  .aiim-logo2 {
+    /* border: 2px solid; */
+    padding: 3px;
+    width: 190px;
+  }
+
+  .logohead {
+    /* border: 4px solid; */
+
+  }
+
+  .logohead2 {
+    /* border: 4px solid; */
+  }
+
+  .main-pa {
+    /* border: 5px solid !important; */
+
+  }
+}
+
+@media only screen and (min-width: 1098px) {
+  .footer {
+    /* border: 2px solid; */
+    display: flex;
+    gap: 60px;
+  }
+
+
+
+  .footer>.foot1 {
+    width: 50% !important;
+    /* border: 1px solid; */
+    gap: 100px;
+  }
+
+  .commit {
+    border: 1px solid;
+    height: 200px;
+
+  }
+
+  .delhi-para {
+    /* border: 4px solid; */
+    width: 100%;
+    padding: 9% !important;
+    /* margin: 0 0 0 16%; */
+  }
+
+  .delhi-img {
+    width: 40% !important;
+    /* border: 5px solid */
+  }
+
+  .delhi-img>img {
+    width: 100% !important;
+    /* border: 4px solid !important */
+  }
+
+  .delhi-ban {
+    /* border: 4px solid; */
+    width: 100% !important;
+    height: auto;
+    padding: 0 !important;
+    margin: 10vh auto !important;
+
+  }
+
+  .delhi-ban2 {
+    /* border: 4px solid; */
+    width: 90% !important;
+    gap: 25px;
+  }
+
+
+  .delhi-ban3 {
+    /* border: 4px solid; */
+    width: 50%;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  #main-ven-img {
+    display: none;
+  }
+
+
+
+  #veb-img1 {
+    display: none;
+  }
+
+  #hell-ven {
+    display: block;
+  }
+
+  #veb-img {
+    display: block;
+  }
+
+
+}
